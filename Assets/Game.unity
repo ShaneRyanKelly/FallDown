@@ -450,6 +450,11 @@ PrefabInstance:
       propertyPath: m_GravityScale
       value: 30
       objectReference: {fileID: 0}
+    - target: {fileID: 7597320426485281877, guid: 22e494891f65fc044a99d2894564dcf4,
+        type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 22e494891f65fc044a99d2894564dcf4, type: 3}
 --- !u!114 &7597320425021246326 stripped
